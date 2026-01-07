@@ -1,7 +1,7 @@
 # GDIM32 In Class Activities
 ## W1
 ### Activity 1
-
+Predict how much time you'll take on a minigame before you procrastinate (or just don't procrastinate in general!!)
 ### Activity 2
 1. 10
 2. 2
@@ -12,3 +12,4 @@
 7. Translate can only be called on an object, not a class (Transform)
 8. Change it to _playerTransform
 ### Activity 3
+[Link to doc](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
