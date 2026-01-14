@@ -17,3 +17,4 @@ Predict how much time you'll take on a minigame before you procrastinate (or jus
 ### Activity 1
 ![Xvwz0k4l](https://github.com/user-attachments/assets/78cc67f9-b668-48eb-b2b2-089694fa0fde)
 ### Activity 2
+[Mainly collider code and figuring out movements (player jump, coin moving, etc.)](https://github.com/UCI-GDIM32-W25/mg2-aconitephoenix/commit/79e1a2643450d0d9ef5eeda8539196e1645c7b02)
