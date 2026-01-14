@@ -15,5 +15,5 @@ Predict how much time you'll take on a minigame before you procrastinate (or jus
 [Link to doc](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
 ## W2
 ### Activity 1
-
+![Xvwz0k4l](https://github.com/user-attachments/assets/78cc67f9-b668-48eb-b2b2-089694fa0fde)
 ### Activity 2
