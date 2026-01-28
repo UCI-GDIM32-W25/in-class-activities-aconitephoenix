@@ -22,4 +22,12 @@ Predict how much time you'll take on a minigame before you procrastinate (or jus
 ### Activities 0-2
 Buddy name: Eli
 ### Activity 3
-<img width="1810" height="1513" alt="Screenshot 2026-01-20 174637" src="https://github.com/user-attachments/assets/1630a79a-38f6-4a6a-9d4f-e7ecbca9e783" />
+<img width="1810" height="1513" alt="Screenshot 2026-01-20 174637" src="https://github.com/user-attachments/assets/1630a79a-38f6-4a6a-9d4f-e7ecbca9e783" /> 
+
+## W4
+### Activity 0
+Buddy name: Eli
+### Activity 1
+At runtime (`Awake()`), the `Locator` script logic checks for extra instances of a `Locator` object and destroys them. This prevents multiple instances of a `Locator` object from existing, making sure it's a singleton.
+### Activity 2
+### Activity 3
