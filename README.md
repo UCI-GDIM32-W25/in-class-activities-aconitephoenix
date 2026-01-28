@@ -32,5 +32,4 @@ At runtime (`Awake()`), the `Locator` script logic checks for extra instances of
 ### Activity 2
 ![IMG_0426](https://github.com/user-attachments/assets/05c0c74d-051b-4ac2-bed4-e861d22656a2)
 ![IMG_0425](https://github.com/user-attachments/assets/aa603ce3-3b1c-49f7-8873-134e668f2c17)
-
 ### Activity 3
