@@ -37,15 +37,30 @@ At runtime (`Awake()`), the `Locator` script logic checks for extra instances of
 
 ## W5
 ### Activity 1
-I feel like I would change IBreakable from an interface to an abstract, mainly because it seems that the IBreakables have a durability that cannot be implemented in the parent class because interfaces cannot have member variables. In general, I feel like Item and IBreakable could switch abstract and interface.
+I feel like I would change IBreakable from an interface to an abstract, mainly because it seems that the IBreakables have a durability that cannot be implemented in the parent class because interfaces cannot have member variables. I feel like Item and IBreakable could switch abstract and interface. In general, I do feel like the game data should be stored in something like a ScriptableObject as well.
 ### Activity 2
 
 ### Activity 3
 #### Scenario 1
-
+- Model-View-Controller with C# events:
+- Inheritance with polymorphism:
+    - Basic parent class, abstract class, and/or interface:
+- Finite State Machine with C# enums:
+- Singleton:
+- ScriptableObjects:
 #### Scenario 2
-
+- Model-View-Controller with C# events:
+- Inheritance with polymorphism:
+    - Basic parent class, abstract class, and/or interface:
+- Finite State Machine with C# enums:
+- Singleton:
+- ScriptableObjects:
 #### Scenario 3
-
+- Model-View-Controller with C# events:
+- Inheritance with polymorphism:
+    - Basic parent class, abstract class, and/or interface:
+- Finite State Machine with C# enums:
+- Singleton:
+- ScriptableObjects:
 ### Activity 4
 [Link to proposal doc](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
