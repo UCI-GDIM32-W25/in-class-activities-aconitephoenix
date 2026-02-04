@@ -34,12 +34,11 @@ At runtime (`Awake()`), the `Locator` script logic checks for extra instances of
 ![IMG_0425](https://github.com/user-attachments/assets/aa603ce3-3b1c-49f7-8873-134e668f2c17)
 ### Activity 3
 [I added the bird and pipe sprites and spliced them properly. I also added the ground and bird object to the scene. Unfortunately could not get any farther because my computer was nearly about to die and I didn't bring a charger...](https://github.com/aconitephoenix/HW4/commit/f601fb74d717b28fa7b38bd4104fb085a36bc9e1)
-
 ## W5
 ### Activity 1
 I feel like I would change IBreakable from an interface to an abstract, mainly because it seems that the IBreakables have a durability that cannot be implemented in the parent class because interfaces cannot have member variables. I feel like Item and IBreakable could switch abstract and interface. In general, I do feel like the game data should be stored in something like a ScriptableObject as well.
 ### Activity 2
-
+The EnemyStats and ItemW5Demo2 classes are the Models as they contain game data. The DialogueBubble and InventoryUI classes are the Views as they mainly work on displaying visual information in the game. The Controllers are the EnemyW5Demo2 and PlayerW5Demo2 classes as they handle the game logic.
 ### Activity 3
 #### Scenario 1
 - Model-View-Controller with C# events:
@@ -63,4 +62,5 @@ I feel like I would change IBreakable from an interface to an abstract, mainly b
 - Singleton:
 - ScriptableObjects:
 ### Activity 4
-[Link to proposal doc](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
+Attendance: Sebastian Magana, Kaleb Reyes, Jess Tran  
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
