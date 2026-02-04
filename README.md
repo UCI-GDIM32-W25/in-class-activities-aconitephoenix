@@ -34,3 +34,18 @@ At runtime (`Awake()`), the `Locator` script logic checks for extra instances of
 ![IMG_0425](https://github.com/user-attachments/assets/aa603ce3-3b1c-49f7-8873-134e668f2c17)
 ### Activity 3
 [I added the bird and pipe sprites and spliced them properly. I also added the ground and bird object to the scene. Unfortunately could not get any farther because my computer was nearly about to die and I didn't bring a charger...](https://github.com/aconitephoenix/HW4/commit/f601fb74d717b28fa7b38bd4104fb085a36bc9e1)
+
+## W5
+### Activity 1
+I feel like I would change IBreakable from an interface to an abstract, mainly because it seems that the IBreakables have a durability that cannot be implemented in the parent class because interfaces cannot have member variables. In general, I feel like Item and IBreakable could switch abstract and interface.
+### Activity 2
+
+### Activity 3
+#### Scenario 1
+
+#### Scenario 2
+
+#### Scenario 3
+
+### Activity 4
+[Link to proposal doc](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
