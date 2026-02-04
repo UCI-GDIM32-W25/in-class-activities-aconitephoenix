@@ -41,26 +41,17 @@ I feel like I would change IBreakable from an interface to an abstract, mainly b
 The EnemyStats and ItemW5Demo2 classes are the Models as they contain game data. The DialogueBubble and InventoryUI classes are the Views as they mainly work on displaying visual information in the game. The Controllers are the EnemyW5Demo2 and PlayerW5Demo2 classes as they handle the game logic.
 ### Activity 3
 #### Scenario 1
-- Model-View-Controller with C# events:
-- Inheritance with polymorphism:
-    - Basic parent class, abstract class, and/or interface:
-- Finite State Machine with C# enums:
-- Singleton:
-- ScriptableObjects:
+- beats represented by prefabs to be able to map multiple of them across the screen
+- scriptableobjects contain data about the beats in the song + the types of beats they are
 #### Scenario 2
-- Model-View-Controller with C# events:
-- Inheritance with polymorphism:
-    - Basic parent class, abstract class, and/or interface:
-- Finite State Machine with C# enums:
-- Singleton:
-- ScriptableObjects:
+- stats for abilities = model, gameplay code performing abilities (causing dmg, creating shields) = controller, ui for abilities + results = view
 #### Scenario 3
-- Model-View-Controller with C# events:
-- Inheritance with polymorphism:
-    - Basic parent class, abstract class, and/or interface:
-- Finite State Machine with C# enums:
-- Singleton:
-- ScriptableObjects:
+- finite state machine for player animations (different states activate different animations)
+- inheritance w polymorphism for the different plants/rocks
+    - probably abstract classes so that the parent class can have empty methods that plants can implement with their own bodies, but also so they'll have inheritable member variables and stuff
+- scriptableobjects used to store inventory data + plant properties
+- model stores the properties of the plants and such, view renders the animations/ui, controller controls game logic (player actions)
+- singleton locator to allow all classes to access player's events
 ### Activity 4
 Attendance: Sebastian Magana, Kaleb Reyes, Jess Tran  
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
