@@ -55,3 +55,31 @@ The EnemyStats and ItemW5Demo2 classes are the Models as they contain game data.
 ### Activity 4
 Attendance: Sebastian Magana, Kaleb Reyes, Jess Tran  
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
+## W6
+### Activity 1
+#### Gizmos
+- gizmos allow you to see the distance btwn 2 objects before they collide w each other to check collider sizes
+- helps to diagnose issues a lot faster via visualization
+- remember: gizmos are only visible in SCENE VIEW!!!!!
+- in demo, velocity collider shows the velocity + direction of the object as it moves
+- circle collider shows direction capybara is facing
+#### Profiling
+- Profiler allows to see performance details
+- helps to figure out what methods are taking longer to execute
+- for the specific demo, the fruit had a weird polygon collider that had a bunch of unnecessary joints
+- not a good idea to have multiple objects with really detailed colliders in the same scene
+- circle collider is most efficient collider for the fruit
+- after changing fruit prefab, method runtimes bc more even
+- learning abt optimization and performance is important!!! good skill for your resume
+- CPU runs all program logic
+- GPU renders all the frames
+#### Breakpoints
+- makes diagnosing errors easy bc the code stops running the moment it hits the breakpoint
+- unity application becomes completely paused at breakpoint
+- in demo, discovered that instance was null
+- you get to see the chain of events that led up to the breakpoint!
+- in demo, replace start w awake
+- don't have to write debug lines w breakpoints!
+### Activity 2
+Attendance: Jess Tran, Kaleb Reyes (Sebastian went to GDW!)  
+Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
