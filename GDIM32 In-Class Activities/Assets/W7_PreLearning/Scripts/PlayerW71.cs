@@ -38,12 +38,12 @@ public class PlayerW71 : MonoBehaviour
         bool isGrounded = false;
 
         // determine origin point for raycast
-        _slopeRaycastOrigin = transform.position + new Vector3(0, 1, 0);
-        Ray straightDownRay = new Ray(_slopeRaycastOrigin, Vector3.down);
+        //_slopeRaycastOrigin = transform.position + new Vector3(0, 1, 0);
+        //Ray straightDownRay = new Ray(_slopeRaycastOrigin, Vector3.down);
 
         // after learning about coordinate spaces - comment out above 2 lines and uncomment this to improve raycast
         //Ray straightDownRay = new Ray(transform.position + _slopeRaycastOrigin, Vector3.down); // wrong
-        //Ray straightDownRay = new Ray(transform.TransformPoint(_slopeRaycastOrigin), Vector3.down); // right
+        Ray straightDownRay = new Ray(transform.TransformPoint(_slopeRaycastOrigin), Vector3.down); // right
         
         // cast a ray into the scene
         // Collider.Raycast returns TRUE if it hits anything, and stores results in _raycastHit
@@ -76,9 +76,9 @@ public class PlayerW71 : MonoBehaviour
         Gizmos.color = Color.magenta;
         Gizmos.DrawRay(_surfaceLocation, _surfaceNormal);
 
-        Gizmos.DrawSphere(_slopeRaycastOrigin, 0.1f);
+        //Gizmos.DrawSphere(_slopeRaycastOrigin, 0.1f);
         // after learning about coordinate spaces - uncomment and use instead of above line
         // Gizmos.DrawSphere(transform.position + _slopeRaycastOrigin, 0.1f); // wrong
-        // Gizmos.DrawSphere(transform.TransformPoint(_slopeRaycastOrigin), 0.1f); // right
+        Gizmos.DrawSphere(transform.TransformPoint(_slopeRaycastOrigin), 0.1f); // right
     }
 }
