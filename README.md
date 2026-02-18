@@ -98,5 +98,5 @@ Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 <img width="1300" height="1284" alt="Final Project Breakdown" src="https://github.com/user-attachments/assets/d3dd5ada-1889-40bd-a120-d5b401eb77ff" />
 
 ### Activity 4
-
+[Link to Trello Board](https://trello.com/invite/b/69951f944f330958a4e6bf2f/ATTI692e766e2b54a385c7f1c25f3ba63f9b039DA622/goofy-goobers-final-tasks)
 ### Activity 5
