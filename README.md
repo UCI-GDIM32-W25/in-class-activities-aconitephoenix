@@ -83,3 +83,19 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 ### Activity 2
 Attendance: Jess Tran, Kaleb Reyes (Sebastian went to GDW!)  
 Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
+## W7
+### Activity 1
+- gizmo on duck represents how far he can see
+- once duck can see you he starts pursuing you
+    - can be blocked by obstacles (tree)
+- duck has FSM to change behavior/movement based on what's in its line of sight
+    - makes things more organized
+- raycasting useful for coding aggro-ed enemies
+    - makes sure they don't attack you too fast/early
+### Activity 2
+Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
+### Activity 3
+
+### Activity 4
+
+### Activity 5
