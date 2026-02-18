@@ -100,3 +100,4 @@ Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 ### Activity 4
 [Link to Trello Board](https://trello.com/invite/b/69951f944f330958a4e6bf2f/ATTI692e766e2b54a385c7f1c25f3ba63f9b039DA622/goofy-goobers-final-tasks)
 ### Activity 5
+[I imported the TMP Text assets into the game and added a basic UI element to represent the pages collected.](https://github.com/lindenreid/GDIM32-Final/commit/3e0f7756599589383785c1ce3db733847201f71d)
