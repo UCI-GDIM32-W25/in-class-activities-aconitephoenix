@@ -95,7 +95,7 @@ Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/
 ### Activity 2
 Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 ### Activity 3
-
+<img width="1300" height="1284" alt="Final Project Breakdown" src="https://github.com/user-attachments/assets/d3dd5ada-1889-40bd-a120-d5b401eb77ff" />
 ### Activity 4
 
 ### Activity 5
