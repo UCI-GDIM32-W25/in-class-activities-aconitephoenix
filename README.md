@@ -120,3 +120,4 @@ Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 ### Activity 4
 Task: Working on dialogue triggers
 ### Activity 5
+[I worked on the dialogue trigger activating when the player clicked on an NPC (it only semi-works right now...)](https://github.com/aconitephoenix/GDIM32-Final/commit/091bb4997f8086299890249265e2237477873253) 
