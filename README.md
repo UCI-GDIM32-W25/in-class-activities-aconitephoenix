@@ -113,5 +113,10 @@ Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 ### Activity 2
 Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 ### Activity 3
+- Player movement is good and responsive
+- Sprint bar and sprint depletion works
+- Jumped off world, need to add terrain and boundaries
+- Itch description for controls is good, need to add click to interact when implemented
 ### Activity 4
+Task: Working on dialogue triggers
 ### Activity 5
