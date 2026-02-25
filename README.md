@@ -101,3 +101,17 @@ Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 [Link to Trello Board](https://trello.com/invite/b/69951f944f330958a4e6bf2f/ATTI692e766e2b54a385c7f1c25f3ba63f9b039DA622/goofy-goobers-final-tasks)
 ### Activity 5
 [I imported the TMP Text assets into the game and added a basic UI element to represent the pages collected.](https://github.com/lindenreid/GDIM32-Final/commit/3e0f7756599589383785c1ce3db733847201f71d)
+## W8
+### Activity 1
+- post-processing - shaders that affect the look of your entire screen
+    - ex: bloom (makes things glow and stuffff)
+- can change the tint of the camera to give things a cohesive look
+- wiggle effect in witcher III is a post-processing effect, can identify bc its affecting the entire screen
+- unity packages are fine to use for final project!!!
+- you hit "add effect" on the post processing thing and you can just add the effect
+    - usually they come with their settings off by default for some reason so make sure you turn that on
+### Activity 2
+Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
+### Activity 3
+### Activity 4
+### Activity 5
