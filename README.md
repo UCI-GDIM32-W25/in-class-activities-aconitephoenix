@@ -121,3 +121,19 @@ Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 Task: Working on dialogue triggers
 ### Activity 5
 [I worked on the dialogue trigger activating when the player clicked on an NPC (it only semi-works right now...)](https://github.com/aconitephoenix/GDIM32-Final/commit/091bb4997f8086299890249265e2237477873253) 
+## W9
+### Activity 1
+- diff number of options per branch
+- the stray kids and shinee options only lead to one option, BTS leads to more options
+- multiple dialogue branches makes it easy for designers to edit the lines
+- there are also nodes to return to, kind of like a foldback structure
+- for multiple NPCs with branching dialogue options
+    - canvas code should hook the button up to the NPC that's actually talking
+    - have some function that, when you press the button to interact w the npc, to assign the inputs to the correct NPC + keep note of what dialogue node is currently active
+    - code should be separate from the NPC
+    - move dialogue logic to dialoguecontroller, NPC stores other info
+### Activity 2
+Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
+### Activity 3
+### Activity 4
+### Activity 5
