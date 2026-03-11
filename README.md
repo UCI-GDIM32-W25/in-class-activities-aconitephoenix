@@ -144,3 +144,11 @@ Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 As of now, we're pretty much halfway through our project and on pace!! We just need to further polish the content and logic of the game.
 ### Activity 5
 [I fixed an issue with the dialogue where if you clicked off the buttons while the player options were active, the dialogue would close. That no longer happens now!!! Hopefully!!!!!](https://github.com/aconitephoenix/GDIM32-Final/commit/087bba7aa81ce077f3caa8391548918f52119a58)
+## W10
+### Activity 1
+Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
+### Activity 2
+
+### Activity 3
+
+### Activity 4
