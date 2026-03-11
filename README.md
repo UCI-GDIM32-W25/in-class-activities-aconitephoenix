@@ -148,7 +148,15 @@ As of now, we're pretty much halfway through our project and on pace!! We just n
 ### Activity 1
 Attendance: Jess Tran, Sebastian Magana, Kaleb Reyes
 ### Activity 2
-
+### Activity 2 
+#### Mac
+- White Screen on shader (now fixed!!)
+#### General
+- Make the NPC's from gray boxes to actual npcs
+- Door should be more apparent to the player
+- Dialogue choice after quest is finished werent properly showing
+- Arrow should be on top layer
 ### Activity 3
-
+As of now we are still at the halfway point of our game, though we might need to scale down a bit to make it in the deadline. It would mainly be to add the content into the game and to scale down on any environmental details/additional mechanics.
 ### Activity 4
+[I fixed an issue with the dialogue where if you collected a page after talking to the NPC, it didn't offer the option to say that you completed the quest. Now, that is fixed and the player can complete the quest properly!!](https://github.com/aconitephoenix/GDIM32-Final/commit/5b34fa22649a8bd7c482891f82aae3e9f1301a38)
